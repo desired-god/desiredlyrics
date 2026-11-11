@@ -7,7 +7,7 @@ Downloads synchronized `.lrc` files for tracks from multiple sources.
 Install [Python](https://www.python.org/downloads/), then copy and paste this into the command prompt (Win + R -> cmd):
 
 ```bash
-git clone https://github.com/desired-god/desiredlrcs.git
+git clone https://github.com/desired-god/desiredlyrics
 cd desiredlrcs
 pip install -r requirements.txt
 ```
